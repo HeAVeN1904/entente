@@ -1,0 +1,915 @@
+Nivel mission debug log started
+[2025-06-16 16:26:11] ===== МИССИЯ ЗАПУЩЕНА =====
+[2025-06-16 16:26:13] main() called
+[2025-06-16 16:26:13] MustBeInitialized == true, вызываем Init()
+[2025-06-16 16:26:13] Init() called
+[2025-06-16 16:26:13] Создание группы FirstAttackers
+[2025-06-16 16:26:13] Группа FirstAttackers создана и заполнена
+[2025-06-16 16:26:13] Создание группы MainForces
+[2025-06-16 16:26:13] Группа MainForces создана и заполнена
+[2025-06-16 16:26:13] Init() завершён
+[2025-06-16 16:26:13] EveryThingLost(0): units=123, houses=9
+[2025-06-16 16:26:13] EveryThingLost(1): units=3182, houses=91
+[2025-06-16 16:26:13] Проверка IsFirstTaskDone: timePassed=0
+[2025-06-16 16:26:13] main() завершён
+[2025-06-16 16:26:16] main() called
+[2025-06-16 16:26:16] EveryThingLost(0): units=123, houses=9
+[2025-06-16 16:26:16] EveryThingLost(1): units=3182, houses=91
+[2025-06-16 16:26:16] Проверка IsFirstTaskDone: timePassed=1.6666667535901
+[2025-06-16 16:26:16] main() завершён
+[2025-06-16 16:26:17] main() called
+[2025-06-16 16:26:17] EveryThingLost(0): units=123, houses=9
+[2025-06-16 16:26:17] EveryThingLost(1): units=3182, houses=92
+[2025-06-16 16:26:17] Проверка IsFirstTaskDone: timePassed=3.3333335071802
+[2025-06-16 16:26:17] main() завершён
+[2025-06-16 16:26:19] main() called
+[2025-06-16 16:26:19] EveryThingLost(0): units=123, houses=9
+[2025-06-16 16:26:19] EveryThingLost(1): units=3182, houses=92
+[2025-06-16 16:26:19] Проверка IsFirstTaskDone: timePassed=5.0000002607703
+[2025-06-16 16:26:19] main() завершён
+[2025-06-16 16:26:20] main() called
+[2025-06-16 16:26:20] EveryThingLost(0): units=123, houses=9
+[2025-06-16 16:26:20] EveryThingLost(1): units=3182, houses=94
+[2025-06-16 16:26:20] Проверка IsFirstTaskDone: timePassed=6.6666670143604
+[2025-06-16 16:26:20] main() завершён
+[2025-06-16 16:26:22] main() called
+[2025-06-16 16:26:22] EveryThingLost(0): units=123, houses=9
+[2025-06-16 16:26:22] EveryThingLost(1): units=3182, houses=94
+[2025-06-16 16:26:22] Проверка IsFirstTaskDone: timePassed=8.3333337679505
+[2025-06-16 16:26:22] main() завершён
+[2025-06-16 16:26:23] main() called
+[2025-06-16 16:26:23] EveryThingLost(0): units=123, houses=9
+[2025-06-16 16:26:23] EveryThingLost(1): units=3182, houses=95
+[2025-06-16 16:26:23] Проверка IsFirstTaskDone: timePassed=10.000000521541
+[2025-06-16 16:26:23] main() завершён
+[2025-06-16 16:26:25] main() called
+[2025-06-16 16:26:25] EveryThingLost(0): units=123, houses=9
+[2025-06-16 16:26:25] EveryThingLost(1): units=3182, houses=95
+[2025-06-16 16:26:25] Проверка IsFirstTaskDone: timePassed=11.666667275131
+[2025-06-16 16:26:25] main() завершён
+[2025-06-16 16:26:26] main() called
+[2025-06-16 16:26:26] EveryThingLost(0): units=123, houses=9
+[2025-06-16 16:26:26] EveryThingLost(1): units=3182, houses=95
+[2025-06-16 16:26:26] Проверка IsFirstTaskDone: timePassed=13.333334028721
+[2025-06-16 16:26:26] main() завершён
+[2025-06-16 16:26:28] main() called
+[2025-06-16 16:26:28] EveryThingLost(0): units=123, houses=9
+[2025-06-16 16:26:28] EveryThingLost(1): units=3182, houses=95
+[2025-06-16 16:26:28] Проверка IsFirstTaskDone: timePassed=15.000000782311
+[2025-06-16 16:26:28] main() завершён
+[2025-06-16 16:26:29] main() called
+[2025-06-16 16:26:29] EveryThingLost(0): units=123, houses=11
+[2025-06-16 16:26:29] EveryThingLost(1): units=3182, houses=95
+[2025-06-16 16:26:29] Проверка IsFirstTaskDone: timePassed=16.666667535901
+[2025-06-16 16:26:29] main() завершён
+[2025-06-16 16:26:31] main() called
+[2025-06-16 16:26:31] EveryThingLost(0): units=124, houses=11
+[2025-06-16 16:26:31] EveryThingLost(1): units=3182, houses=95
+[2025-06-16 16:26:31] Проверка IsFirstTaskDone: timePassed=18.333334289491
+[2025-06-16 16:26:31] main() завершён
+[2025-06-16 16:26:32] main() called
+[2025-06-16 16:26:32] EveryThingLost(0): units=124, houses=13
+[2025-06-16 16:26:32] EveryThingLost(1): units=3182, houses=95
+[2025-06-16 16:26:32] Проверка IsFirstTaskDone: timePassed=20.000001043081
+[2025-06-16 16:26:32] main() завершён
+[2025-06-16 16:26:34] main() called
+[2025-06-16 16:26:34] EveryThingLost(0): units=126, houses=13
+[2025-06-16 16:26:34] EveryThingLost(1): units=3182, houses=95
+[2025-06-16 16:26:34] Проверка IsFirstTaskDone: timePassed=21.666667796671
+[2025-06-16 16:26:34] main() завершён
+[2025-06-16 16:26:36] main() called
+[2025-06-16 16:26:36] EveryThingLost(0): units=126, houses=13
+[2025-06-16 16:26:36] EveryThingLost(1): units=3182, houses=95
+[2025-06-16 16:26:36] Проверка IsFirstTaskDone: timePassed=23.333334550261
+[2025-06-16 16:26:36] main() завершён
+[2025-06-16 16:26:37] main() called
+[2025-06-16 16:26:37] EveryThingLost(0): units=126, houses=13
+[2025-06-16 16:26:37] EveryThingLost(1): units=3182, houses=95
+[2025-06-16 16:26:37] Проверка IsFirstTaskDone: timePassed=25.000001303852
+[2025-06-16 16:26:37] main() завершён
+[2025-06-16 16:26:39] main() called
+[2025-06-16 16:26:39] EveryThingLost(0): units=128, houses=13
+[2025-06-16 16:26:39] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:26:39] Проверка IsFirstTaskDone: timePassed=26.666668057442
+[2025-06-16 16:26:39] main() завершён
+[2025-06-16 16:26:40] main() called
+[2025-06-16 16:26:40] EveryThingLost(0): units=130, houses=13
+[2025-06-16 16:26:40] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:26:40] Проверка IsFirstTaskDone: timePassed=28.333334811032
+[2025-06-16 16:26:40] main() завершён
+[2025-06-16 16:26:42] main() called
+[2025-06-16 16:26:42] EveryThingLost(0): units=133, houses=13
+[2025-06-16 16:26:42] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:26:42] Проверка IsFirstTaskDone: timePassed=30.000001564622
+[2025-06-16 16:26:42] main() завершён
+[2025-06-16 16:26:43] main() called
+[2025-06-16 16:26:43] EveryThingLost(0): units=135, houses=13
+[2025-06-16 16:26:43] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:26:43] Проверка IsFirstTaskDone: timePassed=31.666668318212
+[2025-06-16 16:26:43] main() завершён
+[2025-06-16 16:26:45] main() called
+[2025-06-16 16:26:45] EveryThingLost(0): units=137, houses=13
+[2025-06-16 16:26:45] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:26:45] Проверка IsFirstTaskDone: timePassed=33.333335071802
+[2025-06-16 16:26:45] main() завершён
+[2025-06-16 16:26:46] main() called
+[2025-06-16 16:26:46] EveryThingLost(0): units=139, houses=13
+[2025-06-16 16:26:46] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:26:46] Проверка IsFirstTaskDone: timePassed=35.000001825392
+[2025-06-16 16:26:46] main() завершён
+[2025-06-16 16:26:48] main() called
+[2025-06-16 16:26:48] EveryThingLost(0): units=141, houses=13
+[2025-06-16 16:26:48] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:26:48] Проверка IsFirstTaskDone: timePassed=36.666668578982
+[2025-06-16 16:26:48] main() завершён
+[2025-06-16 16:26:49] main() called
+[2025-06-16 16:26:49] EveryThingLost(0): units=142, houses=14
+[2025-06-16 16:26:49] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:26:49] Проверка IsFirstTaskDone: timePassed=38.333335332572
+[2025-06-16 16:26:49] main() завершён
+[2025-06-16 16:26:51] main() called
+[2025-06-16 16:26:51] EveryThingLost(0): units=143, houses=14
+[2025-06-16 16:26:51] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:26:51] Проверка IsFirstTaskDone: timePassed=40.000002086163
+[2025-06-16 16:26:51] main() завершён
+[2025-06-16 16:27:01] main() called
+[2025-06-16 16:27:01] EveryThingLost(0): units=144, houses=14
+[2025-06-16 16:27:01] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:01] Проверка IsFirstTaskDone: timePassed=41.666668839753
+[2025-06-16 16:27:01] main() завершён
+[2025-06-16 16:27:03] main() called
+[2025-06-16 16:27:03] EveryThingLost(0): units=146, houses=14
+[2025-06-16 16:27:03] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:03] Проверка IsFirstTaskDone: timePassed=43.333335593343
+[2025-06-16 16:27:03] main() завершён
+[2025-06-16 16:27:04] main() called
+[2025-06-16 16:27:04] EveryThingLost(0): units=147, houses=14
+[2025-06-16 16:27:04] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:04] Проверка IsFirstTaskDone: timePassed=45.000002346933
+[2025-06-16 16:27:04] main() завершён
+[2025-06-16 16:27:06] main() called
+[2025-06-16 16:27:06] EveryThingLost(0): units=149, houses=14
+[2025-06-16 16:27:06] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:06] Проверка IsFirstTaskDone: timePassed=46.666669100523
+[2025-06-16 16:27:06] main() завершён
+[2025-06-16 16:27:07] main() called
+[2025-06-16 16:27:07] EveryThingLost(0): units=150, houses=14
+[2025-06-16 16:27:07] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:07] Проверка IsFirstTaskDone: timePassed=48.333335854113
+[2025-06-16 16:27:07] main() завершён
+[2025-06-16 16:27:09] main() called
+[2025-06-16 16:27:09] EveryThingLost(0): units=152, houses=14
+[2025-06-16 16:27:09] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:09] Проверка IsFirstTaskDone: timePassed=50.000002607703
+[2025-06-16 16:27:09] main() завершён
+[2025-06-16 16:27:10] main() called
+[2025-06-16 16:27:10] EveryThingLost(0): units=153, houses=14
+[2025-06-16 16:27:10] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:10] Проверка IsFirstTaskDone: timePassed=51.666669361293
+[2025-06-16 16:27:10] main() завершён
+[2025-06-16 16:27:12] main() called
+[2025-06-16 16:27:12] EveryThingLost(0): units=155, houses=15
+[2025-06-16 16:27:12] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:12] Проверка IsFirstTaskDone: timePassed=53.333336114883
+[2025-06-16 16:27:12] main() завершён
+[2025-06-16 16:27:14] main() called
+[2025-06-16 16:27:14] EveryThingLost(0): units=156, houses=15
+[2025-06-16 16:27:14] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:14] Проверка IsFirstTaskDone: timePassed=55.000002868474
+[2025-06-16 16:27:14] main() завершён
+[2025-06-16 16:27:15] main() called
+[2025-06-16 16:27:15] EveryThingLost(0): units=158, houses=16
+[2025-06-16 16:27:15] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:15] Проверка IsFirstTaskDone: timePassed=56.666669622064
+[2025-06-16 16:27:15] main() завершён
+[2025-06-16 16:27:17] main() called
+[2025-06-16 16:27:17] EveryThingLost(0): units=159, houses=16
+[2025-06-16 16:27:17] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:17] Проверка IsFirstTaskDone: timePassed=58.333336375654
+[2025-06-16 16:27:17] main() завершён
+[2025-06-16 16:27:18] main() called
+[2025-06-16 16:27:18] EveryThingLost(0): units=160, houses=16
+[2025-06-16 16:27:18] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:18] Проверка IsFirstTaskDone: timePassed=60.000003129244
+[2025-06-16 16:27:18] main() завершён
+[2025-06-16 16:27:20] main() called
+[2025-06-16 16:27:20] EveryThingLost(0): units=161, houses=16
+[2025-06-16 16:27:20] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:20] Проверка IsFirstTaskDone: timePassed=61.666669882834
+[2025-06-16 16:27:20] main() завершён
+[2025-06-16 16:27:21] main() called
+[2025-06-16 16:27:21] EveryThingLost(0): units=163, houses=17
+[2025-06-16 16:27:21] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:21] Проверка IsFirstTaskDone: timePassed=63.333336636424
+[2025-06-16 16:27:21] main() завершён
+[2025-06-16 16:27:23] main() called
+[2025-06-16 16:27:23] EveryThingLost(0): units=164, houses=17
+[2025-06-16 16:27:23] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:23] Проверка IsFirstTaskDone: timePassed=65.000003390014
+[2025-06-16 16:27:23] main() завершён
+[2025-06-16 16:27:24] main() called
+[2025-06-16 16:27:24] EveryThingLost(0): units=166, houses=17
+[2025-06-16 16:27:24] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:24] Проверка IsFirstTaskDone: timePassed=66.666670143604
+[2025-06-16 16:27:24] main() завершён
+[2025-06-16 16:27:26] main() called
+[2025-06-16 16:27:26] EveryThingLost(0): units=167, houses=17
+[2025-06-16 16:27:26] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:26] Проверка IsFirstTaskDone: timePassed=68.333336897194
+[2025-06-16 16:27:26] main() завершён
+[2025-06-16 16:27:27] main() called
+[2025-06-16 16:27:27] EveryThingLost(0): units=170, houses=19
+[2025-06-16 16:27:27] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:27] Проверка IsFirstTaskDone: timePassed=70.000003650784
+[2025-06-16 16:27:27] main() завершён
+[2025-06-16 16:27:29] main() called
+[2025-06-16 16:27:29] EveryThingLost(0): units=172, houses=19
+[2025-06-16 16:27:29] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:29] Проверка IsFirstTaskDone: timePassed=71.666670404375
+[2025-06-16 16:27:29] main() завершён
+[2025-06-16 16:27:30] main() called
+[2025-06-16 16:27:30] EveryThingLost(0): units=174, houses=19
+[2025-06-16 16:27:30] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:30] Проверка IsFirstTaskDone: timePassed=73.333337157965
+[2025-06-16 16:27:30] main() завершён
+[2025-06-16 16:27:32] main() called
+[2025-06-16 16:27:32] EveryThingLost(0): units=176, houses=19
+[2025-06-16 16:27:32] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:32] Проверка IsFirstTaskDone: timePassed=75.000003911555
+[2025-06-16 16:27:32] main() завершён
+[2025-06-16 16:27:33] main() called
+[2025-06-16 16:27:33] EveryThingLost(0): units=178, houses=20
+[2025-06-16 16:27:33] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:33] Проверка IsFirstTaskDone: timePassed=76.666670665145
+[2025-06-16 16:27:33] main() завершён
+[2025-06-16 16:27:35] main() called
+[2025-06-16 16:27:35] EveryThingLost(0): units=179, houses=20
+[2025-06-16 16:27:35] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:35] Проверка IsFirstTaskDone: timePassed=78.333337418735
+[2025-06-16 16:27:35] main() завершён
+[2025-06-16 16:27:37] main() called
+[2025-06-16 16:27:38] EveryThingLost(0): units=180, houses=21
+[2025-06-16 16:27:38] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:38] Проверка IsFirstTaskDone: timePassed=80.000004172325
+[2025-06-16 16:27:38] main() завершён
+[2025-06-16 16:27:39] main() called
+[2025-06-16 16:27:39] EveryThingLost(0): units=181, houses=21
+[2025-06-16 16:27:39] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:39] Проверка IsFirstTaskDone: timePassed=81.666670925915
+[2025-06-16 16:27:39] main() завершён
+[2025-06-16 16:27:41] main() called
+[2025-06-16 16:27:41] EveryThingLost(0): units=184, houses=22
+[2025-06-16 16:27:41] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:41] Проверка IsFirstTaskDone: timePassed=83.333337679505
+[2025-06-16 16:27:41] main() завершён
+[2025-06-16 16:27:42] main() called
+[2025-06-16 16:27:42] EveryThingLost(0): units=185, houses=22
+[2025-06-16 16:27:42] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:42] Проверка IsFirstTaskDone: timePassed=85.000004433095
+[2025-06-16 16:27:42] main() завершён
+[2025-06-16 16:27:44] main() called
+[2025-06-16 16:27:44] EveryThingLost(0): units=186, houses=22
+[2025-06-16 16:27:44] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:44] Проверка IsFirstTaskDone: timePassed=86.666671186686
+[2025-06-16 16:27:44] main() завершён
+[2025-06-16 16:27:45] main() called
+[2025-06-16 16:27:45] EveryThingLost(0): units=187, houses=22
+[2025-06-16 16:27:45] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:45] Проверка IsFirstTaskDone: timePassed=88.333337940276
+[2025-06-16 16:27:45] main() завершён
+[2025-06-16 16:27:47] main() called
+[2025-06-16 16:27:47] EveryThingLost(0): units=189, houses=22
+[2025-06-16 16:27:47] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:47] Проверка IsFirstTaskDone: timePassed=90.000004693866
+[2025-06-16 16:27:47] main() завершён
+[2025-06-16 16:27:48] main() called
+[2025-06-16 16:27:48] EveryThingLost(0): units=191, houses=22
+[2025-06-16 16:27:48] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:48] Проверка IsFirstTaskDone: timePassed=91.666671447456
+[2025-06-16 16:27:48] main() завершён
+[2025-06-16 16:27:49] main() called
+[2025-06-16 16:27:49] EveryThingLost(0): units=193, houses=22
+[2025-06-16 16:27:49] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:49] Проверка IsFirstTaskDone: timePassed=93.333338201046
+[2025-06-16 16:27:49] main() завершён
+[2025-06-16 16:27:51] main() called
+[2025-06-16 16:27:51] EveryThingLost(0): units=194, houses=22
+[2025-06-16 16:27:51] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:51] Проверка IsFirstTaskDone: timePassed=95.000004954636
+[2025-06-16 16:27:51] main() завершён
+[2025-06-16 16:27:52] main() called
+[2025-06-16 16:27:52] EveryThingLost(0): units=196, houses=22
+[2025-06-16 16:27:52] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:52] Проверка IsFirstTaskDone: timePassed=96.666671708226
+[2025-06-16 16:27:52] main() завершён
+[2025-06-16 16:27:54] main() called
+[2025-06-16 16:27:54] EveryThingLost(0): units=198, houses=22
+[2025-06-16 16:27:54] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:54] Проверка IsFirstTaskDone: timePassed=98.333338461816
+[2025-06-16 16:27:54] main() завершён
+[2025-06-16 16:27:55] main() called
+[2025-06-16 16:27:55] EveryThingLost(0): units=200, houses=23
+[2025-06-16 16:27:55] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:55] Проверка IsFirstTaskDone: timePassed=100.00000521541
+[2025-06-16 16:27:55] main() завершён
+[2025-06-16 16:27:57] main() called
+[2025-06-16 16:27:57] EveryThingLost(0): units=202, houses=23
+[2025-06-16 16:27:57] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:57] Проверка IsFirstTaskDone: timePassed=101.666671969
+[2025-06-16 16:27:57] main() завершён
+[2025-06-16 16:27:58] main() called
+[2025-06-16 16:27:58] EveryThingLost(0): units=204, houses=23
+[2025-06-16 16:27:58] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:27:58] Проверка IsFirstTaskDone: timePassed=103.33333872259
+[2025-06-16 16:27:58] main() завершён
+[2025-06-16 16:28:00] main() called
+[2025-06-16 16:28:00] EveryThingLost(0): units=206, houses=23
+[2025-06-16 16:28:00] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:00] Проверка IsFirstTaskDone: timePassed=105.00000547618
+[2025-06-16 16:28:00] main() завершён
+[2025-06-16 16:28:01] main() called
+[2025-06-16 16:28:01] EveryThingLost(0): units=207, houses=24
+[2025-06-16 16:28:01] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:01] Проверка IsFirstTaskDone: timePassed=106.66667222977
+[2025-06-16 16:28:01] main() завершён
+[2025-06-16 16:28:03] main() called
+[2025-06-16 16:28:03] EveryThingLost(0): units=209, houses=24
+[2025-06-16 16:28:03] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:03] Проверка IsFirstTaskDone: timePassed=108.33333898336
+[2025-06-16 16:28:03] main() завершён
+[2025-06-16 16:28:04] main() called
+[2025-06-16 16:28:04] EveryThingLost(0): units=212, houses=24
+[2025-06-16 16:28:04] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:04] Проверка IsFirstTaskDone: timePassed=110.00000573695
+[2025-06-16 16:28:04] main() завершён
+[2025-06-16 16:28:06] main() called
+[2025-06-16 16:28:06] EveryThingLost(0): units=213, houses=24
+[2025-06-16 16:28:06] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:06] Проверка IsFirstTaskDone: timePassed=111.66667249054
+[2025-06-16 16:28:06] main() завершён
+[2025-06-16 16:28:07] main() called
+[2025-06-16 16:28:07] EveryThingLost(0): units=214, houses=24
+[2025-06-16 16:28:07] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:07] Проверка IsFirstTaskDone: timePassed=113.33333924413
+[2025-06-16 16:28:07] main() завершён
+[2025-06-16 16:28:08] main() called
+[2025-06-16 16:28:08] EveryThingLost(0): units=216, houses=24
+[2025-06-16 16:28:08] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:08] Проверка IsFirstTaskDone: timePassed=115.00000599772
+[2025-06-16 16:28:08] main() завершён
+[2025-06-16 16:28:10] main() called
+[2025-06-16 16:28:10] EveryThingLost(0): units=218, houses=24
+[2025-06-16 16:28:10] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:10] Проверка IsFirstTaskDone: timePassed=116.66667275131
+[2025-06-16 16:28:10] main() завершён
+[2025-06-16 16:28:11] main() called
+[2025-06-16 16:28:11] EveryThingLost(0): units=220, houses=24
+[2025-06-16 16:28:11] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:11] Проверка IsFirstTaskDone: timePassed=118.3333395049
+[2025-06-16 16:28:11] main() завершён
+[2025-06-16 16:28:13] main() called
+[2025-06-16 16:28:13] EveryThingLost(0): units=223, houses=25
+[2025-06-16 16:28:13] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:13] Проверка IsFirstTaskDone: timePassed=120.00000625849
+[2025-06-16 16:28:13] main() завершён
+[2025-06-16 16:28:14] main() called
+[2025-06-16 16:28:14] EveryThingLost(0): units=226, houses=25
+[2025-06-16 16:28:14] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:14] Проверка IsFirstTaskDone: timePassed=121.66667301208
+[2025-06-16 16:28:14] main() завершён
+[2025-06-16 16:28:16] main() called
+[2025-06-16 16:28:16] EveryThingLost(0): units=229, houses=25
+[2025-06-16 16:28:16] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:16] Проверка IsFirstTaskDone: timePassed=123.33333976567
+[2025-06-16 16:28:16] main() завершён
+[2025-06-16 16:28:17] main() called
+[2025-06-16 16:28:17] EveryThingLost(0): units=232, houses=25
+[2025-06-16 16:28:17] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:17] Проверка IsFirstTaskDone: timePassed=125.00000651926
+[2025-06-16 16:28:17] main() завершён
+[2025-06-16 16:28:19] main() called
+[2025-06-16 16:28:19] EveryThingLost(0): units=234, houses=26
+[2025-06-16 16:28:19] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:19] Проверка IsFirstTaskDone: timePassed=126.66667327285
+[2025-06-16 16:28:19] main() завершён
+[2025-06-16 16:28:20] main() called
+[2025-06-16 16:28:20] EveryThingLost(0): units=237, houses=26
+[2025-06-16 16:28:20] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:20] Проверка IsFirstTaskDone: timePassed=128.33334002644
+[2025-06-16 16:28:20] main() завершён
+[2025-06-16 16:28:22] main() called
+[2025-06-16 16:28:22] EveryThingLost(0): units=240, houses=26
+[2025-06-16 16:28:22] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:22] Проверка IsFirstTaskDone: timePassed=130.00000678003
+[2025-06-16 16:28:22] main() завершён
+[2025-06-16 16:28:23] main() called
+[2025-06-16 16:28:23] EveryThingLost(0): units=243, houses=26
+[2025-06-16 16:28:23] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:23] Проверка IsFirstTaskDone: timePassed=131.66667353362
+[2025-06-16 16:28:23] main() завершён
+[2025-06-16 16:28:25] main() called
+[2025-06-16 16:28:25] EveryThingLost(0): units=245, houses=26
+[2025-06-16 16:28:25] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:25] Проверка IsFirstTaskDone: timePassed=133.33334028721
+[2025-06-16 16:28:25] main() завершён
+[2025-06-16 16:28:26] main() called
+[2025-06-16 16:28:26] EveryThingLost(0): units=246, houses=26
+[2025-06-16 16:28:26] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:26] Проверка IsFirstTaskDone: timePassed=135.0000070408
+[2025-06-16 16:28:26] main() завершён
+[2025-06-16 16:28:28] main() called
+[2025-06-16 16:28:28] EveryThingLost(0): units=248, houses=26
+[2025-06-16 16:28:28] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:28] Проверка IsFirstTaskDone: timePassed=136.66667379439
+[2025-06-16 16:28:28] main() завершён
+[2025-06-16 16:28:30] main() called
+[2025-06-16 16:28:30] EveryThingLost(0): units=249, houses=26
+[2025-06-16 16:28:30] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:30] Проверка IsFirstTaskDone: timePassed=138.33334054798
+[2025-06-16 16:28:30] main() завершён
+[2025-06-16 16:28:31] main() called
+[2025-06-16 16:28:31] EveryThingLost(0): units=251, houses=26
+[2025-06-16 16:28:31] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:31] Проверка IsFirstTaskDone: timePassed=140.00000730157
+[2025-06-16 16:28:31] main() завершён
+[2025-06-16 16:28:33] main() called
+[2025-06-16 16:28:33] EveryThingLost(0): units=252, houses=26
+[2025-06-16 16:28:33] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:33] Проверка IsFirstTaskDone: timePassed=141.66667405516
+[2025-06-16 16:28:33] main() завершён
+[2025-06-16 16:28:34] main() called
+[2025-06-16 16:28:34] EveryThingLost(0): units=253, houses=26
+[2025-06-16 16:28:34] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:34] Проверка IsFirstTaskDone: timePassed=143.33334080875
+[2025-06-16 16:28:34] main() завершён
+[2025-06-16 16:28:36] main() called
+[2025-06-16 16:28:36] EveryThingLost(0): units=254, houses=26
+[2025-06-16 16:28:36] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:36] Проверка IsFirstTaskDone: timePassed=145.00000756234
+[2025-06-16 16:28:36] main() завершён
+[2025-06-16 16:28:37] main() called
+[2025-06-16 16:28:37] EveryThingLost(0): units=255, houses=26
+[2025-06-16 16:28:37] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:37] Проверка IsFirstTaskDone: timePassed=146.66667431593
+[2025-06-16 16:28:37] main() завершён
+[2025-06-16 16:28:39] main() called
+[2025-06-16 16:28:39] EveryThingLost(0): units=257, houses=26
+[2025-06-16 16:28:39] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:39] Проверка IsFirstTaskDone: timePassed=148.33334106952
+[2025-06-16 16:28:39] main() завершён
+[2025-06-16 16:28:40] main() called
+[2025-06-16 16:28:40] EveryThingLost(0): units=258, houses=26
+[2025-06-16 16:28:40] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:40] Проверка IsFirstTaskDone: timePassed=150.00000782311
+[2025-06-16 16:28:40] main() завершён
+[2025-06-16 16:28:42] main() called
+[2025-06-16 16:28:42] EveryThingLost(0): units=260, houses=26
+[2025-06-16 16:28:42] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:42] Проверка IsFirstTaskDone: timePassed=151.6666745767
+[2025-06-16 16:28:42] main() завершён
+[2025-06-16 16:28:44] main() called
+[2025-06-16 16:28:44] EveryThingLost(0): units=262, houses=26
+[2025-06-16 16:28:44] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:44] Проверка IsFirstTaskDone: timePassed=153.33334133029
+[2025-06-16 16:28:44] main() завершён
+[2025-06-16 16:28:45] main() called
+[2025-06-16 16:28:45] EveryThingLost(0): units=263, houses=26
+[2025-06-16 16:28:45] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:45] Проверка IsFirstTaskDone: timePassed=155.00000808388
+[2025-06-16 16:28:45] main() завершён
+[2025-06-16 16:28:47] main() called
+[2025-06-16 16:28:47] EveryThingLost(0): units=263, houses=27
+[2025-06-16 16:28:47] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:47] Проверка IsFirstTaskDone: timePassed=156.66667483747
+[2025-06-16 16:28:47] main() завершён
+[2025-06-16 16:28:48] main() called
+[2025-06-16 16:28:48] EveryThingLost(0): units=264, houses=27
+[2025-06-16 16:28:48] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:48] Проверка IsFirstTaskDone: timePassed=158.33334159106
+[2025-06-16 16:28:48] main() завершён
+[2025-06-16 16:28:50] main() called
+[2025-06-16 16:28:50] EveryThingLost(0): units=264, houses=29
+[2025-06-16 16:28:50] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:50] Проверка IsFirstTaskDone: timePassed=160.00000834465
+[2025-06-16 16:28:50] main() завершён
+[2025-06-16 16:28:51] main() called
+[2025-06-16 16:28:51] EveryThingLost(0): units=266, houses=29
+[2025-06-16 16:28:51] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:51] Проверка IsFirstTaskDone: timePassed=161.66667509824
+[2025-06-16 16:28:51] main() завершён
+[2025-06-16 16:28:53] main() called
+[2025-06-16 16:28:53] EveryThingLost(0): units=267, houses=29
+[2025-06-16 16:28:53] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:53] Проверка IsFirstTaskDone: timePassed=163.33334185183
+[2025-06-16 16:28:53] main() завершён
+[2025-06-16 16:28:54] main() called
+[2025-06-16 16:28:54] EveryThingLost(0): units=269, houses=29
+[2025-06-16 16:28:54] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:54] Проверка IsFirstTaskDone: timePassed=165.00000860542
+[2025-06-16 16:28:54] main() завершён
+[2025-06-16 16:28:56] main() called
+[2025-06-16 16:28:56] EveryThingLost(0): units=270, houses=29
+[2025-06-16 16:28:56] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:56] Проверка IsFirstTaskDone: timePassed=166.66667535901
+[2025-06-16 16:28:56] main() завершён
+[2025-06-16 16:28:57] main() called
+[2025-06-16 16:28:57] EveryThingLost(0): units=272, houses=29
+[2025-06-16 16:28:57] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:57] Проверка IsFirstTaskDone: timePassed=168.3333421126
+[2025-06-16 16:28:57] main() завершён
+[2025-06-16 16:28:58] main() called
+[2025-06-16 16:28:58] EveryThingLost(0): units=273, houses=29
+[2025-06-16 16:28:58] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:28:58] Проверка IsFirstTaskDone: timePassed=170.00000886619
+[2025-06-16 16:28:58] main() завершён
+[2025-06-16 16:29:00] main() called
+[2025-06-16 16:29:00] EveryThingLost(0): units=276, houses=29
+[2025-06-16 16:29:00] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:00] Проверка IsFirstTaskDone: timePassed=171.66667561978
+[2025-06-16 16:29:00] main() завершён
+[2025-06-16 16:29:02] main() called
+[2025-06-16 16:29:02] EveryThingLost(0): units=277, houses=29
+[2025-06-16 16:29:02] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:02] Проверка IsFirstTaskDone: timePassed=173.33334237337
+[2025-06-16 16:29:02] main() завершён
+[2025-06-16 16:29:03] main() called
+[2025-06-16 16:29:03] EveryThingLost(0): units=280, houses=29
+[2025-06-16 16:29:03] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:03] Проверка IsFirstTaskDone: timePassed=175.00000912696
+[2025-06-16 16:29:03] main() завершён
+[2025-06-16 16:29:05] main() called
+[2025-06-16 16:29:05] EveryThingLost(0): units=283, houses=29
+[2025-06-16 16:29:05] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:05] Проверка IsFirstTaskDone: timePassed=176.66667588055
+[2025-06-16 16:29:05] main() завершён
+[2025-06-16 16:29:06] main() called
+[2025-06-16 16:29:06] EveryThingLost(0): units=287, houses=29
+[2025-06-16 16:29:06] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:06] Проверка IsFirstTaskDone: timePassed=178.33334263414
+[2025-06-16 16:29:06] main() завершён
+[2025-06-16 16:29:08] main() called
+[2025-06-16 16:29:08] EveryThingLost(0): units=290, houses=29
+[2025-06-16 16:29:08] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:08] Проверка IsFirstTaskDone: timePassed=180.00000938773
+[2025-06-16 16:29:08] main() завершён
+[2025-06-16 16:29:09] main() called
+[2025-06-16 16:29:09] EveryThingLost(0): units=293, houses=29
+[2025-06-16 16:29:09] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:09] Проверка IsFirstTaskDone: timePassed=181.66667614132
+[2025-06-16 16:29:09] main() завершён
+[2025-06-16 16:29:11] main() called
+[2025-06-16 16:29:11] EveryThingLost(0): units=297, houses=30
+[2025-06-16 16:29:11] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:11] Проверка IsFirstTaskDone: timePassed=183.33334289491
+[2025-06-16 16:29:11] main() завершён
+[2025-06-16 16:29:12] main() called
+[2025-06-16 16:29:12] EveryThingLost(0): units=299, houses=30
+[2025-06-16 16:29:12] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:12] Проверка IsFirstTaskDone: timePassed=185.0000096485
+[2025-06-16 16:29:12] main() завершён
+[2025-06-16 16:29:14] main() called
+[2025-06-16 16:29:14] EveryThingLost(0): units=300, houses=30
+[2025-06-16 16:29:14] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:14] Проверка IsFirstTaskDone: timePassed=186.66667640209
+[2025-06-16 16:29:14] main() завершён
+[2025-06-16 16:29:15] main() called
+[2025-06-16 16:29:15] EveryThingLost(0): units=300, houses=30
+[2025-06-16 16:29:15] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:15] Проверка IsFirstTaskDone: timePassed=188.33334315568
+[2025-06-16 16:29:15] main() завершён
+[2025-06-16 16:29:17] main() called
+[2025-06-16 16:29:17] EveryThingLost(0): units=302, houses=31
+[2025-06-16 16:29:17] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:17] Проверка IsFirstTaskDone: timePassed=190.00000990927
+[2025-06-16 16:29:17] main() завершён
+[2025-06-16 16:29:18] main() called
+[2025-06-16 16:29:18] EveryThingLost(0): units=304, houses=31
+[2025-06-16 16:29:18] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:18] Проверка IsFirstTaskDone: timePassed=191.66667666286
+[2025-06-16 16:29:18] main() завершён
+[2025-06-16 16:29:20] main() called
+[2025-06-16 16:29:20] EveryThingLost(0): units=307, houses=31
+[2025-06-16 16:29:20] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:20] Проверка IsFirstTaskDone: timePassed=193.33334341645
+[2025-06-16 16:29:20] main() завершён
+[2025-06-16 16:29:22] main() called
+[2025-06-16 16:29:22] EveryThingLost(0): units=310, houses=31
+[2025-06-16 16:29:22] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:22] Проверка IsFirstTaskDone: timePassed=195.00001017004
+[2025-06-16 16:29:22] main() завершён
+[2025-06-16 16:29:23] main() called
+[2025-06-16 16:29:23] EveryThingLost(0): units=313, houses=31
+[2025-06-16 16:29:23] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:23] Проверка IsFirstTaskDone: timePassed=196.66667692363
+[2025-06-16 16:29:23] main() завершён
+[2025-06-16 16:29:25] main() called
+[2025-06-16 16:29:25] EveryThingLost(0): units=316, houses=31
+[2025-06-16 16:29:25] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:25] Проверка IsFirstTaskDone: timePassed=198.33334367722
+[2025-06-16 16:29:25] main() завершён
+[2025-06-16 16:29:27] main() called
+[2025-06-16 16:29:27] EveryThingLost(0): units=319, houses=32
+[2025-06-16 16:29:27] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:27] Проверка IsFirstTaskDone: timePassed=200.00001043081
+[2025-06-16 16:29:27] main() завершён
+[2025-06-16 16:29:28] main() called
+[2025-06-16 16:29:28] EveryThingLost(0): units=319, houses=32
+[2025-06-16 16:29:28] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:28] Проверка IsFirstTaskDone: timePassed=201.6666771844
+[2025-06-16 16:29:28] main() завершён
+[2025-06-16 16:29:30] main() called
+[2025-06-16 16:29:30] EveryThingLost(0): units=321, houses=32
+[2025-06-16 16:29:30] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:30] Проверка IsFirstTaskDone: timePassed=203.33334393799
+[2025-06-16 16:29:30] main() завершён
+[2025-06-16 16:29:31] main() called
+[2025-06-16 16:29:31] EveryThingLost(0): units=323, houses=32
+[2025-06-16 16:29:31] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:31] Проверка IsFirstTaskDone: timePassed=205.00001069158
+[2025-06-16 16:29:31] main() завершён
+[2025-06-16 16:29:33] main() called
+[2025-06-16 16:29:33] EveryThingLost(0): units=327, houses=34
+[2025-06-16 16:29:33] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:33] Проверка IsFirstTaskDone: timePassed=206.66667744517
+[2025-06-16 16:29:33] main() завершён
+[2025-06-16 16:29:34] main() called
+[2025-06-16 16:29:34] EveryThingLost(0): units=330, houses=34
+[2025-06-16 16:29:34] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:34] Проверка IsFirstTaskDone: timePassed=208.33334419876
+[2025-06-16 16:29:34] main() завершён
+[2025-06-16 16:29:36] main() called
+[2025-06-16 16:29:36] EveryThingLost(0): units=332, houses=34
+[2025-06-16 16:29:36] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:36] Проверка IsFirstTaskDone: timePassed=210.00001095235
+[2025-06-16 16:29:36] main() завершён
+[2025-06-16 16:29:37] main() called
+[2025-06-16 16:29:37] EveryThingLost(0): units=334, houses=34
+[2025-06-16 16:29:37] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:37] Проверка IsFirstTaskDone: timePassed=211.66667770594
+[2025-06-16 16:29:37] main() завершён
+[2025-06-16 16:29:39] main() called
+[2025-06-16 16:29:39] EveryThingLost(0): units=337, houses=34
+[2025-06-16 16:29:39] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:39] Проверка IsFirstTaskDone: timePassed=213.33334445953
+[2025-06-16 16:29:39] main() завершён
+[2025-06-16 16:29:40] main() called
+[2025-06-16 16:29:40] EveryThingLost(0): units=339, houses=34
+[2025-06-16 16:29:40] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:40] Проверка IsFirstTaskDone: timePassed=215.00001121312
+[2025-06-16 16:29:40] main() завершён
+[2025-06-16 16:29:42] main() called
+[2025-06-16 16:29:42] EveryThingLost(0): units=342, houses=34
+[2025-06-16 16:29:42] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:42] Проверка IsFirstTaskDone: timePassed=216.66667796671
+[2025-06-16 16:29:42] main() завершён
+[2025-06-16 16:29:44] main() called
+[2025-06-16 16:29:44] EveryThingLost(0): units=344, houses=34
+[2025-06-16 16:29:44] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:44] Проверка IsFirstTaskDone: timePassed=218.3333447203
+[2025-06-16 16:29:44] main() завершён
+[2025-06-16 16:29:45] main() called
+[2025-06-16 16:29:45] EveryThingLost(0): units=348, houses=34
+[2025-06-16 16:29:45] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:45] Проверка IsFirstTaskDone: timePassed=220.00001147389
+[2025-06-16 16:29:45] main() завершён
+[2025-06-16 16:29:47] main() called
+[2025-06-16 16:29:47] EveryThingLost(0): units=349, houses=34
+[2025-06-16 16:29:47] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:47] Проверка IsFirstTaskDone: timePassed=221.66667822748
+[2025-06-16 16:29:47] main() завершён
+[2025-06-16 16:29:48] main() called
+[2025-06-16 16:29:48] EveryThingLost(0): units=351, houses=34
+[2025-06-16 16:29:48] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:48] Проверка IsFirstTaskDone: timePassed=223.33334498107
+[2025-06-16 16:29:48] main() завершён
+[2025-06-16 16:29:50] main() called
+[2025-06-16 16:29:50] EveryThingLost(0): units=352, houses=34
+[2025-06-16 16:29:50] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:50] Проверка IsFirstTaskDone: timePassed=225.00001173466
+[2025-06-16 16:29:50] main() завершён
+[2025-06-16 16:29:51] main() called
+[2025-06-16 16:29:51] EveryThingLost(0): units=355, houses=35
+[2025-06-16 16:29:51] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:51] Проверка IsFirstTaskDone: timePassed=226.66667848825
+[2025-06-16 16:29:51] main() завершён
+[2025-06-16 16:29:53] main() called
+[2025-06-16 16:29:53] EveryThingLost(0): units=358, houses=35
+[2025-06-16 16:29:53] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:53] Проверка IsFirstTaskDone: timePassed=228.33334524184
+[2025-06-16 16:29:53] main() завершён
+[2025-06-16 16:29:54] main() called
+[2025-06-16 16:29:54] EveryThingLost(0): units=360, houses=35
+[2025-06-16 16:29:54] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:54] Проверка IsFirstTaskDone: timePassed=230.00001199543
+[2025-06-16 16:29:54] main() завершён
+[2025-06-16 16:29:56] main() called
+[2025-06-16 16:29:56] EveryThingLost(0): units=363, houses=35
+[2025-06-16 16:29:56] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:56] Проверка IsFirstTaskDone: timePassed=231.66667874902
+[2025-06-16 16:29:56] main() завершён
+[2025-06-16 16:29:57] main() called
+[2025-06-16 16:29:57] EveryThingLost(0): units=365, houses=35
+[2025-06-16 16:29:57] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:57] Проверка IsFirstTaskDone: timePassed=233.33334550261
+[2025-06-16 16:29:57] main() завершён
+[2025-06-16 16:29:59] main() called
+[2025-06-16 16:29:59] EveryThingLost(0): units=371, houses=36
+[2025-06-16 16:29:59] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:29:59] Проверка IsFirstTaskDone: timePassed=235.00001225621
+[2025-06-16 16:29:59] main() завершён
+[2025-06-16 16:30:00] main() called
+[2025-06-16 16:30:00] EveryThingLost(0): units=373, houses=36
+[2025-06-16 16:30:00] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:00] Проверка IsFirstTaskDone: timePassed=236.6666790098
+[2025-06-16 16:30:00] main() завершён
+[2025-06-16 16:30:02] main() called
+[2025-06-16 16:30:02] EveryThingLost(0): units=375, houses=35
+[2025-06-16 16:30:02] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:02] Проверка IsFirstTaskDone: timePassed=238.33334576339
+[2025-06-16 16:30:02] main() завершён
+[2025-06-16 16:30:03] main() called
+[2025-06-16 16:30:03] EveryThingLost(0): units=378, houses=35
+[2025-06-16 16:30:03] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:03] Проверка IsFirstTaskDone: timePassed=240.00001251698
+[2025-06-16 16:30:03] main() завершён
+[2025-06-16 16:30:05] main() called
+[2025-06-16 16:30:05] EveryThingLost(0): units=384, houses=35
+[2025-06-16 16:30:05] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:05] Проверка IsFirstTaskDone: timePassed=241.66667927057
+[2025-06-16 16:30:05] main() завершён
+[2025-06-16 16:30:06] main() called
+[2025-06-16 16:30:06] EveryThingLost(0): units=387, houses=37
+[2025-06-16 16:30:06] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:06] Проверка IsFirstTaskDone: timePassed=243.33334602416
+[2025-06-16 16:30:06] main() завершён
+[2025-06-16 16:30:08] main() called
+[2025-06-16 16:30:08] EveryThingLost(0): units=389, houses=37
+[2025-06-16 16:30:08] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:08] Проверка IsFirstTaskDone: timePassed=245.00001277775
+[2025-06-16 16:30:08] main() завершён
+[2025-06-16 16:30:10] main() called
+[2025-06-16 16:30:10] EveryThingLost(0): units=392, houses=37
+[2025-06-16 16:30:10] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:10] Проверка IsFirstTaskDone: timePassed=246.66667953134
+[2025-06-16 16:30:10] main() завершён
+[2025-06-16 16:30:11] main() called
+[2025-06-16 16:30:11] EveryThingLost(0): units=396, houses=37
+[2025-06-16 16:30:11] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:11] Проверка IsFirstTaskDone: timePassed=248.33334628493
+[2025-06-16 16:30:11] main() завершён
+[2025-06-16 16:30:13] main() called
+[2025-06-16 16:30:13] EveryThingLost(0): units=397, houses=37
+[2025-06-16 16:30:13] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:13] Проверка IsFirstTaskDone: timePassed=250.00001303852
+[2025-06-16 16:30:13] main() завершён
+[2025-06-16 16:30:14] main() called
+[2025-06-16 16:30:14] EveryThingLost(0): units=398, houses=37
+[2025-06-16 16:30:14] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:14] Проверка IsFirstTaskDone: timePassed=251.66667979211
+[2025-06-16 16:30:14] main() завершён
+[2025-06-16 16:30:15] main() called
+[2025-06-16 16:30:15] EveryThingLost(0): units=399, houses=37
+[2025-06-16 16:30:15] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:15] Проверка IsFirstTaskDone: timePassed=253.3333465457
+[2025-06-16 16:30:15] main() завершён
+[2025-06-16 16:30:17] main() called
+[2025-06-16 16:30:17] EveryThingLost(0): units=401, houses=37
+[2025-06-16 16:30:17] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:17] Проверка IsFirstTaskDone: timePassed=255.00001329929
+[2025-06-16 16:30:17] main() завершён
+[2025-06-16 16:30:18] main() called
+[2025-06-16 16:30:18] EveryThingLost(0): units=401, houses=37
+[2025-06-16 16:30:18] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:18] Проверка IsFirstTaskDone: timePassed=256.66668005288
+[2025-06-16 16:30:18] main() завершён
+[2025-06-16 16:30:20] main() called
+[2025-06-16 16:30:20] EveryThingLost(0): units=401, houses=37
+[2025-06-16 16:30:20] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:20] Проверка IsFirstTaskDone: timePassed=258.33334680647
+[2025-06-16 16:30:20] main() завершён
+[2025-06-16 16:30:21] main() called
+[2025-06-16 16:30:21] EveryThingLost(0): units=401, houses=37
+[2025-06-16 16:30:21] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:21] Проверка IsFirstTaskDone: timePassed=260.00001356006
+[2025-06-16 16:30:21] main() завершён
+[2025-06-16 16:30:23] main() called
+[2025-06-16 16:30:23] EveryThingLost(0): units=403, houses=38
+[2025-06-16 16:30:23] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:23] Проверка IsFirstTaskDone: timePassed=261.66668031365
+[2025-06-16 16:30:23] main() завершён
+[2025-06-16 16:30:24] main() called
+[2025-06-16 16:30:24] EveryThingLost(0): units=403, houses=38
+[2025-06-16 16:30:24] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:24] Проверка IsFirstTaskDone: timePassed=263.33334706724
+[2025-06-16 16:30:24] main() завершён
+[2025-06-16 16:30:26] main() called
+[2025-06-16 16:30:26] EveryThingLost(0): units=403, houses=38
+[2025-06-16 16:30:26] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:26] Проверка IsFirstTaskDone: timePassed=265.00001382083
+[2025-06-16 16:30:26] main() завершён
+[2025-06-16 16:30:27] main() called
+[2025-06-16 16:30:27] EveryThingLost(0): units=403, houses=38
+[2025-06-16 16:30:27] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:27] Проверка IsFirstTaskDone: timePassed=266.66668057442
+[2025-06-16 16:30:27] main() завершён
+[2025-06-16 16:30:29] main() called
+[2025-06-16 16:30:29] EveryThingLost(0): units=405, houses=38
+[2025-06-16 16:30:29] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:29] Проверка IsFirstTaskDone: timePassed=268.33334732801
+[2025-06-16 16:30:29] main() завершён
+[2025-06-16 16:30:30] main() called
+[2025-06-16 16:30:30] EveryThingLost(0): units=406, houses=38
+[2025-06-16 16:30:30] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:30] Проверка IsFirstTaskDone: timePassed=270.0000140816
+[2025-06-16 16:30:30] main() завершён
+[2025-06-16 16:30:32] main() called
+[2025-06-16 16:30:32] EveryThingLost(0): units=407, houses=38
+[2025-06-16 16:30:32] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:32] Проверка IsFirstTaskDone: timePassed=271.66668083519
+[2025-06-16 16:30:32] main() завершён
+[2025-06-16 16:30:33] main() called
+[2025-06-16 16:30:33] EveryThingLost(0): units=408, houses=38
+[2025-06-16 16:30:33] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:33] Проверка IsFirstTaskDone: timePassed=273.33334758878
+[2025-06-16 16:30:33] main() завершён
+[2025-06-16 16:30:34] main() called
+[2025-06-16 16:30:34] EveryThingLost(0): units=409, houses=38
+[2025-06-16 16:30:34] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:34] Проверка IsFirstTaskDone: timePassed=275.00001434237
+[2025-06-16 16:30:34] main() завершён
+[2025-06-16 16:30:36] main() called
+[2025-06-16 16:30:36] EveryThingLost(0): units=409, houses=38
+[2025-06-16 16:30:36] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:36] Проверка IsFirstTaskDone: timePassed=276.66668109596
+[2025-06-16 16:30:36] main() завершён
+[2025-06-16 16:30:37] main() called
+[2025-06-16 16:30:37] EveryThingLost(0): units=409, houses=39
+[2025-06-16 16:30:37] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:37] Проверка IsFirstTaskDone: timePassed=278.33334784955
+[2025-06-16 16:30:37] main() завершён
+[2025-06-16 16:30:39] main() called
+[2025-06-16 16:30:39] EveryThingLost(0): units=409, houses=39
+[2025-06-16 16:30:39] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:39] Проверка IsFirstTaskDone: timePassed=280.00001460314
+[2025-06-16 16:30:39] main() завершён
+[2025-06-16 16:30:40] main() called
+[2025-06-16 16:30:40] EveryThingLost(0): units=410, houses=39
+[2025-06-16 16:30:40] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:40] Проверка IsFirstTaskDone: timePassed=281.66668135673
+[2025-06-16 16:30:40] main() завершён
+[2025-06-16 16:30:42] main() called
+[2025-06-16 16:30:42] EveryThingLost(0): units=410, houses=39
+[2025-06-16 16:30:42] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:42] Проверка IsFirstTaskDone: timePassed=283.33334811032
+[2025-06-16 16:30:42] main() завершён
+[2025-06-16 16:30:44] main() called
+[2025-06-16 16:30:44] EveryThingLost(0): units=410, houses=39
+[2025-06-16 16:30:44] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:44] Проверка IsFirstTaskDone: timePassed=285.00001486391
+[2025-06-16 16:30:44] main() завершён
+[2025-06-16 16:30:45] main() called
+[2025-06-16 16:30:45] EveryThingLost(0): units=410, houses=39
+[2025-06-16 16:30:45] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:45] Проверка IsFirstTaskDone: timePassed=286.6666816175
+[2025-06-16 16:30:45] main() завершён
+[2025-06-16 16:30:47] main() called
+[2025-06-16 16:30:47] EveryThingLost(0): units=411, houses=39
+[2025-06-16 16:30:47] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:47] Проверка IsFirstTaskDone: timePassed=288.33334837109
+[2025-06-16 16:30:47] main() завершён
+[2025-06-16 16:30:48] main() called
+[2025-06-16 16:30:48] EveryThingLost(0): units=411, houses=39
+[2025-06-16 16:30:48] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:48] Проверка IsFirstTaskDone: timePassed=290.00001512468
+[2025-06-16 16:30:48] main() завершён
+[2025-06-16 16:30:50] main() called
+[2025-06-16 16:30:50] EveryThingLost(0): units=411, houses=39
+[2025-06-16 16:30:50] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:50] Проверка IsFirstTaskDone: timePassed=291.66668187827
+[2025-06-16 16:30:50] main() завершён
+[2025-06-16 16:30:51] main() called
+[2025-06-16 16:30:51] EveryThingLost(0): units=411, houses=39
+[2025-06-16 16:30:51] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:51] Проверка IsFirstTaskDone: timePassed=293.33334863186
+[2025-06-16 16:30:51] main() завершён
+[2025-06-16 16:30:53] main() called
+[2025-06-16 16:30:53] EveryThingLost(0): units=411, houses=39
+[2025-06-16 16:30:53] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:53] Проверка IsFirstTaskDone: timePassed=295.00001538545
+[2025-06-16 16:30:53] main() завершён
+[2025-06-16 16:30:54] main() called
+[2025-06-16 16:30:54] EveryThingLost(0): units=411, houses=39
+[2025-06-16 16:30:54] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:54] Проверка IsFirstTaskDone: timePassed=296.66668213904
+[2025-06-16 16:30:54] main() завершён
+[2025-06-16 16:30:56] main() called
+[2025-06-16 16:30:56] EveryThingLost(0): units=411, houses=39
+[2025-06-16 16:30:56] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:56] Проверка IsFirstTaskDone: timePassed=298.33334889263
+[2025-06-16 16:30:56] main() завершён
+[2025-06-16 16:30:57] main() called
+[2025-06-16 16:30:57] EveryThingLost(0): units=411, houses=39
+[2025-06-16 16:30:57] EveryThingLost(1): units=3182, houses=96
+[2025-06-16 16:30:57] Проверка IsFirstTaskDone: timePassed=300.00001564622
+[2025-06-16 16:30:57] Первое задание выполнено, timePassed=300.00001564622
+[2025-06-16 16:30:57] Отправка FirstAttackers на (183, 360)
